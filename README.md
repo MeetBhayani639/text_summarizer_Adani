@@ -18,21 +18,20 @@ Step 4: Run the Project
 python summarizer.py
 
 Example
-Input:
+Input:-
 Artificial intelligence is changing the world by helping machines think...
 
-
-Output:
+Output:-
 AI is helping machines think and solve problems like humans.
 
-Why This Project
-Learn LLM usage
-Learn text summarization
-Learn project structure
+Why This Project :-
+Learn LLM usage,
+Learn text summarization,
+Learn project structure,
 Useful for data science and GenAI roles
 
-Technologies Used
-Python
-LLM API
-Virtual Environment
+Technologies Used :-
+Python,
+LLM API,
+Virtual Environment,
 Prompt Engineering
